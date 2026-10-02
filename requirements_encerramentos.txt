@@ -1,0 +1,6 @@
+# Dependências adicionais para a V1 de Andamento de Encerramentos
+# Mantenha também as dependências que o seu projeto atual já utiliza.
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+streamlit[pdf]
